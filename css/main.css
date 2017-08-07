@@ -5,7 +5,7 @@ body {
 
 .navbar {
     margin-bottom: 0;
-	background: rgba(170, 170, 240, 0.5);
+	background: rgba(170, 170, 240, .5);
 	/*background: rgba(151, 211, 141, .5);*/
 	
 	color: #21327A;
@@ -32,7 +32,7 @@ body {
    background-size: cover;
    /*background: #c9c9c9;  */
    /*background: rgba(135, 206, 250, 1); */
-   background: rgba(60, 141, 47, .8);
+   background: rgba(170, 170, 240, .8);
    color: #444
 }
 
@@ -66,7 +66,7 @@ footer {
     width: 100%;
 
     /*color: #777;*/
-	color: rgba(170, 170, 240, 0.5);
+	color: rgba(170, 170, 240, .5);
 }
 
 footer .copyright {
@@ -100,7 +100,7 @@ footer .social-media-list li {
 .item + .item {
     border-width: 1px 0 0 0;
     /*border-color: #ddd;*/
-	border-color: rgba(135, 206, 250, 0.6);
+	border-color: rgba(170, 170, 240, .5);
     border-style: solid;
 }
 
