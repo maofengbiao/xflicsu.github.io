@@ -2,17 +2,21 @@
 - name: Pengyi Yang
   role: Group leader
   photo: "/images/Pengyi.jpg"
+  email: pengyi.yang [at] sydney.edu.au
   
 - name: Taiyun Kim
   role: Research Associate
+  email: taiyun.kim [at] sydney.edu.au
   
 - name: Irene Chen
   role: Research Assistent
   photo: "/images/Irene.png"
+  email: rui.chen [at] sydney.edu.au
   
 - name: Dinuka Perera
   role: TSP Student - Bioinformatics
   program: Talented Student Program (USyd)
+  email: kper7588 [at] uni.sydney.edu.au
 
 - name: You?
   role: <a href="mailto:pengyi.yang@sydney.edu.au">Join us!</a>
