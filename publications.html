@@ -6,39 +6,38 @@ layout: default
 <div class="container">
     <h1 class="publications">Publications</h1>
     <br>
-    <h4> You can find a full publication list at <a href=https://scholar.google.com.au/citations?user=s-cliFIAAAAJ&hl=en target="_blank">Google Scholar.</a></h4>
+    <!--<h4> You can find a full publication list at <a href=https://scholar.google.com.au/citations?user=s-cliFIAAAAJ&hl=en target="_blank">Google Scholar.</a></h4>-->
     <br>
 
 
-    {% for pub in site.data.publications %}
+    	<h3>Notations:</h3>
+    		<h6>
+    		&#10018;: Co-first author<br>
+    		&dagger;: Corresponding/Co-corresponding author<br>
+    		</h6>
+    
+    	<h3>2017</h3>
+    		<h6>
+    		<font color="#FF5733"><b>Systems biology:</b></font><br>
+    		Norris, DM.<sup>&#10018;</sup>, <font color="orange">Yang, P.</font><sup>&#10018;</sup>, Krycer JR., Fazakerley DJ, James, DE. & Burchfield JG.<sup>&dagger;</sup> (2017)
+    		An improved Akt reporter reveals intra- and inter- cellular heterogeneity and oscillations in signal transduction
+			<i>Journal of Cell Science</i>, accepted.
+    		<br><br>
+    		
+    		<font color="orange">Yang, P.</font><sup>&dagger;</sup>, Oldfield, A., Kim, T., Yang, A., Yang, J. & Ho, J.<sup>&dagger;</sup> (2017)
+    		Integrative analysis identifies co-dependent gene expression regulation of BRG1 and CHD7 at distal regulatory sites in embryonic stem cells.
+			<i>Bioinformatics</i>, 33(13), 1916–1920.
+			[<a href="https://academic.oup.com/bioinformatics/article/2995820/Integrative-analysis-identifies-co-dependent-gene">Full Text</a>], 
+			[<a href="publication/btx092.pdf">PDF</a>]
+    		<br><br>
+    		
+    		<font color="#FF5733"><b>Methodology and tools:</b></font><br>
+			<font color="orange">Yang, P.</font>, Liu, W. & Yang, J. (2017) 
+			Positive unlabeled learning via wrapper-based adaptive sampling.
+			<i>Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI)</i>, 
+			Pre-print [<a href="publication/IJCAI17_Yang.pdf">PDF</a>]
+			<br><br>
+    		</h6>
 
-    <div class="pub row">
-        <div class="col-sm-2">
-            {% if pub.image.url %}
-            <a href="{{ pub.image.url }}">
-                <img class="pub-image" src="{{ pub.image.src }}"
-                     alt="illustration and link to full text" class="pub-image">
-            </a>
-            {% else %}
-            <img class="pub-image" src="{{ pub.image }}"
-                 alt="illustration" class="pub-image">
-            {% endif %}
-        </div>
-        <div class="col-sm-8">
-            <h4 class="pub-title">{{ pub.title }}</h4>
-            <p class="pub-author"><small>{{ pub.author }} <I>{{ pub.where }}. </I></small></p> 
-            {% if pub.abstract %}
-            <p class="pub-abstract">{{ pub.abstract }}</p>
-            {% endif %}
-        </div>
-        <div class="col-sm-1">
-            <h8 class="pub-year">{{pub.year}}</h8>
-        </div>
-        <div class="col-sm-2">
-            <a href="{{ pub.repo.url }}" target="_blank">{{ pub.repo.name }}</a>
-        </div>
-    </div>
-
-    {% endfor %}
 
 </div>
