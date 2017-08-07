@@ -1,25 +1,24 @@
 body {
-    font-size: 17px;
+    font-size: 16px;
 }
-
 
 
 .navbar {
     margin-bottom: 0;
-	/*background: rgba(135, 206, 250, 0.3);*/
-	background: rgba(151, 211, 141, .5);
+	background: rgba(135, 206, 250, 0.3);
+	/*background: rgba(151, 211, 141, .5);*/
 	
-	color: #0A4600;
+	color: #7E92E8;
 }
 
 
 .navbar-default .navbar-brand {
-    color: #0A4600;
+    color: #7E92E8;
 }
 
 
 .nav.navbar-nav.pull-right li a {
-    color: #0A4600;
+    color: #7E92E8;
 }
 
 .nav.navbar-nav.pull-right li a:hover {
@@ -46,7 +45,7 @@ body {
   /*background-image: url("02.jpg");*/
   color: #ffffff;
   font-size: 40px;  
-  font-family: 'Shift', sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   /*font-weight: bold;*/
 }
 
