@@ -14,5 +14,5 @@
   program: Talented Student Program (USyd)
 
 - name: You?
-  role: Join us!
+  role: <a href="mailto:pengyi.yang@sydney.edu.au">Join us!</a>
   photo: "/images/Cat.png"
