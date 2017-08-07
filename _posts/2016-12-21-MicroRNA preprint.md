@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  Preprint - Dissecting the role of non-coding RNAs in the accumulation of amyloid and tau neuropathologies in Alzheimer's disease.
-date:   2016-12-21
+title:  Taiyun has had his first publication as a co-second author on integrative analysis of transcription factors in embryonic stem cells (ESCs). Congratulations to Taiyun!
+date:   2017-02-11
 excerpt: >
-  Preprint - Dissecting the role of non-coding RNAs in the accumulation of amyloid and tau neuropathologies in Alzheimer's disease.
+  Taiyun has had his first publication as a co-second author on integrative analysis of transcription factors in embryonic stem cells (ESCs). Congratulations to Taiyun! Read the fulltext from
 ---
 
-Check out my preprint on biorXiv <a href="http://biorxiv.org/content/early/2016/12/17/095067" target="_blank">here.</a> 
+Check out the paper <a href="https://academic.oup.com/bioinformatics/article/2995820/Integrative-analysis-identifies-co-dependent-gene">here.</a> 
 
 ### Abstract
 
-Background: Given multiple studies of brain microRNA (miRNA) in relation to Alzheimer's disease (AD) with few consistent results and the heterogeneity of this disease, the objective of this study was to explore their mechanism by evaluating their relation to different elements of Alzheimer's disease pathology, confounding factors and mRNA expression data from the same subjects in the same brain region. 
+Motivation: DNA binding proteins such as chromatin remodellers, transcription factors (TFs), histone modifiers and co-factors often bind cooperatively to activate or repress their target genes in a cell type-specific manner. Nonetheless, the precise role of cooperative binding in defining cell-type identity is still largely uncharacterized.
+Results: Here, we collected and analyzed 214 public datasets representing chromatin immunoprecipitation followed by sequencing (ChIP-Seq) of 104 DNA binding proteins in embryonic stem cell (ESC) lines. We classified their binding sites into those proximal to gene promoters and those in distal regions, and developed a web resource called Proximal And Distal (PAD) clustering to identify their co-localization at these respective regions. Using this extensive dataset, we discovered an extensive co-localization of BRG1 and CHD7 at distal but not proximal regions. The comparison of co-localization sites to those bound by either BRG1 or CHD7 alone showed an enrichment of ESC master TFs binding and active chromatin architecture at co-localization sites. Most notably, our analysis reveals the co-dependency of BRG1 and CHD7 at distal regions on regulating expression of their common target genes in ESC. This work sheds light on cooperative binding of TF binding proteins in regulating gene expression in ESC, and demonstrates the utility of integrative analysis of a manually curated compendium of genome-wide protein binding profiles in our online resource PAD.
+Availability and Implementation: PAD is freely available at http://pad.victorchang.edu.au/ and its source code is available via an open source GPL 3.0 license at https://github.com/VCCRI/PAD/
 
-Results: We report analyses of expression profiling of miRNA (n=700 subjects) and lincRNA (n=540 subjects) from the dorsolateral prefrontal cortex of individuals participating in two longitudinal cohort studies of aging. Evaluating well-established (miR-132, miR-129), we confirm their association with pathologic AD in our dataset, and then characterize their in disease role in terms of neuritic ?-amyloid plaques and neurofibrillary tangle pathology. Additionally, we identify one new miRNA (miR-99) and four lincRNA that are associated with these traits. Many other previously reported associations of microRNA with AD are associated with the confounders quantified in our longitudinal cohort. Finally, by performing analyses integrating both miRNA and RNA sequence data from the same individuals (525 samples), we characterize the impact of AD associated miRNA on human brain expression: we show that the effects of miR-132 and miR-129-5b converge on certain genes such as EP300 and find a role for miR200 and its target genes in AD using an integrated miRNA/mRNA analysis. 
-
-Conclusions: Overall, miRNAs play a modest role in human AD, but we observe robust evidence that a small number of miRNAs are responsible for specific alterations in the cortical transcriptome that are associated with AD.
+Contact:pengyi.yang@sydney.edu.au or j.ho@victorchang.edu.au
