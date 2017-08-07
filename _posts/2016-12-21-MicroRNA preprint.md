@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Taiyun has had his first publication as a co-second author on integrative analysis of transcription factors in embryonic stem cells (ESCs). Congratulations to Taiyun!
+title:  
 date:   2017-02-11
-excerpt: >
-  Taiyun has had his first publication as a co-second author on integrative analysis of transcription factors in embryonic stem cells (ESCs). Congratulations to Taiyun! Read the fulltext from
+excerpt: > Taiyun has had his first publication as a co-second author on integrative analysis of transcription factors in embryonic stem cells (ESCs). Congratulations to Taiyun!
+  Taiyun has had his first publication. Congratulations to Taiyun!
 ---
 
-Check out the paper <a href="https://academic.oup.com/bioinformatics/article/2995820/Integrative-analysis-identifies-co-dependent-gene">here.</a> 
+Read the paper <a href="https://academic.oup.com/bioinformatics/article/2995820/Integrative-analysis-identifies-co-dependent-gene">here.</a> 
 
 ### Abstract
 
