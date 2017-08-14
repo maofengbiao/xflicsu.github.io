@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Our work titled <b>Intragenic enhancers attenuate host gene expression</b> is accepted and is appearing in <i>Molecular cell</i>
+title:  Our work titled <i>Intragenic enhancers attenuate host gene expression</i> is accepted and is appearing in <b>Molecular cell</b>
 date:   2017-08-14
 excerpt: > 
-  Our work titled <b>Intragenic enhancers attenuate host gene expression</b> is accepted and is appearing in <i>Molecular cell</i>
+  Our work titled <i>Intragenic enhancers attenuate host gene expression</i> is accepted and is appearing in <b>Molecular cell</b>
 ---
 
 Congratulations to all members from Jothi lab whom have worked on this project! It took us a long time but all the hard-work paid off, finally.
