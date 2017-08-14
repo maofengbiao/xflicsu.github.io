@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Our work titled <b>Intragenic enhancers attenuate host gene expression</b> is finally accepted and is appearing in <i>Molecular cell</i>
+title:  Our work titled <b>Intragenic enhancers attenuate host gene expression</b> is accepted and is appearing in <i>Molecular cell</i>
 date:   2017-08-14
 excerpt: > 
-  Our work titled <b>Intragenic enhancers attenuate host gene expression</b> is finally accepted and is appearing in <i>Molecular cell</i>
+  Our work titled <b>Intragenic enhancers attenuate host gene expression</b> is accepted and is appearing in <i>Molecular cell</i>
 ---
 
-Congratulations to all members from Jothi lab whom have worked on this project! It took us a LONG time but all the hard-work paid off, finally.
+Congratulations to all members from Jothi lab whom have worked on this project! It took us a long time but all the hard-work paid off, finally.
 
 <!--Read the paper <a href="https://academic.oup.com/bioinformatics/article/2995820/Integrative-analysis-identifies-co-dependent-gene">here.</a> -->
 
