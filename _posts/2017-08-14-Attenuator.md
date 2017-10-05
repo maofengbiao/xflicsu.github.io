@@ -8,7 +8,10 @@ excerpt: >
 
 Congratulations to all members from Jothi lab whom have worked on this project! It took us a long time but all the hard-work paid off, finally.
 
-<!--Read the paper <a href="https://academic.oup.com/bioinformatics/article/2995820/Integrative-analysis-identifies-co-dependent-gene">here.</a> -->
+Read the paper <a href="http://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30658-5">here.</a>
+
+
+
 
 
 ### Abstract
