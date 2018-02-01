@@ -3,23 +3,31 @@
   role: Group leader
   photo: "/images/Pengyi.jpg"
   email: pengyi.yang [at] sydney.edu.au
+
+- name: Thomas Geddes (Tom)
+  role: PhD Student
+  photo: "/images/Dinuka.jpg"
+  program: Deep learning in Bioinformatics
+  email: tged2222 [at] uni.sydney.edu.au
   
 - name: Taiyun Kim
-  role: Research Associate - Bioinformatics
+  role: Research Associate
   photo: "/images/Taiyun.jpg"
+  program: Single cell RNA-seq analysis
   email: taiyun.kim [at] sydney.edu.au
   
 - name: Irene Chen
-  role: Research Assistant - Computer Science
+  role: Research Assistant
   photo: "/images/Irene.png"
+  program: MS-based proteomics data analysis
   email: rui.chen [at] sydney.edu.au
   
 - name: Dinuka Perera
-  role: TSP Student - Bioinformatics
+  role: TSP Student
   photo: "/images/Dinuka.jpg"
-  program: Talented Student Program (USyd)
+  program: Interactive data visualisation in Bioinformatics
   email: kper7588 [at] uni.sydney.edu.au
-
+  
 - name: You?
   role: <a href="mailto:pengyi.yang@sydney.edu.au">Join us!</a>
   photo: "/images/Cat.png"
