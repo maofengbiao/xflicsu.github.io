@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Our computational method titled <b>AdaSampling for Positive-Unlabeled and Label Noise Learning with Bioinformatics Applications</b> is accepted for publication in <b><i>IEEE Transactions on Cybernetics</i></b>
+title:  Our computational method titled <b>AdaSampling</b> is accepted for publication in <b><i>IEEE Transactions on Cybernetics</i></b>
 date:   2018-03-15
 excerpt: > 
-  Our computational method titled <b>AdaSampling for Positive-Unlabeled and Label Noise Learning with Bioinformatics Applications</b> is accepted for publication in <b><i>IEEE Transactions on Cybernetics</i></b>
+  Our work titled <b>AdaSampling for Positive-Unlabeled and Label Noise Learning with Bioinformatics Applications</b> is accepted for publication in <b><i>IEEE Transactions on Cybernetics</i></b>
 ---
 
 In this study, we extended our AdaSampling method to address positive-unlabeled learning problem and learning with label noise. The utility of the method was demonstrated using two novel bioinformatics applications.
