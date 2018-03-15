@@ -8,7 +8,7 @@ excerpt: >
 
 In this study, we extended our AdaSampling method to address positive-unlabeled learning problem and learning with label noise. The utility of the method was demonstrated using two novel bioinformatics applications.
 
-IEEE Transactions on Cybernetics is one of the top ranked journal in Artificial Intelligence with an impact factor of 7.4 (#1 out of 22 in Computer Science, Cybernetics, according to Thomson Reuters).
+IEEE Transactions on Cybernetics is one of the top ranked journals in Artificial Intelligence with an impact factor of 7.4 (#1 out of 22 in Computer Science, Cybernetics, according to Thomson Reuters).
 
 
 
